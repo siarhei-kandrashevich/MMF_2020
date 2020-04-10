@@ -4,7 +4,7 @@ SYS_CONTEXT('USERENV','MODULE')
 --------------------------------------------------------------------------------
 01@ main.sql                                                                    
 
-Elapsed: 00:00:00.01
+Elapsed: 00:00:00.00
 
 Username to create: MMF_120_0
 Path of datafile location: D:\Oracle\Base\oradata\ORCL\DATAFILE\
@@ -34,7 +34,7 @@ NEXT 10M MAXSIZE 10G EXTENT MANAGEMENT LOCAL SEGMENT SPACE MANAGEMENT AUTO
 
 PL/SQL procedure successfully completed.
 
-Elapsed: 00:00:00.95
+Elapsed: 00:00:01.89
 
 Calling create_tablespaces.sql for index tablespace
 
@@ -61,7 +61,7 @@ NEXT 10M MAXSIZE 10G EXTENT MANAGEMENT LOCAL SEGMENT SPACE MANAGEMENT AUTO
 
 PL/SQL procedure successfully completed.
 
-Elapsed: 00:00:00.84
+Elapsed: 00:00:01.66
 
 Calling create_schema.sql
 
@@ -85,19 +85,19 @@ new   3: DEFAULT TABLESPACE MMF_120_0_DATA
 
 User created.
 
-Elapsed: 00:00:00.34
+Elapsed: 00:00:00.60
 old   1: ALTER USER &&SCHEMA_NAME QUOTA UNLIMITED ON &&DEFAULT_TBS 
 new   1: ALTER USER MMF_120_0 QUOTA UNLIMITED ON MMF_120_0_DATA 
 
 User altered.
 
-Elapsed: 00:00:00.33
+Elapsed: 00:00:00.74
 old   1: ALTER USER &&SCHEMA_NAME QUOTA UNLIMITED ON &&INDEX_TBS 
 new   1: ALTER USER MMF_120_0 QUOTA UNLIMITED ON MMF_120_0_IDX 
 
 User altered.
 
-Elapsed: 00:00:00.30
+Elapsed: 00:00:00.55
 *******************************
 Script end: create_schema.sql
 *******************************
@@ -113,55 +113,55 @@ new   1: GRANT CREATE PROCEDURE TO MMF_120_0
 
 Grant succeeded.
 
-Elapsed: 00:00:00.30
+Elapsed: 00:00:00.59
 old   1: GRANT CREATE SEQUENCE TO &SCHEMA_NAME
 new   1: GRANT CREATE SEQUENCE TO MMF_120_0
 
 Grant succeeded.
 
-Elapsed: 00:00:00.36
+Elapsed: 00:00:00.52
 old   1: GRANT CREATE TABLE TO &SCHEMA_NAME
 new   1: GRANT CREATE TABLE TO MMF_120_0
 
 Grant succeeded.
 
-Elapsed: 00:00:00.31
+Elapsed: 00:00:00.55
 old   1: GRANT CREATE TYPE TO &SCHEMA_NAME
 new   1: GRANT CREATE TYPE TO MMF_120_0
 
 Grant succeeded.
 
-Elapsed: 00:00:00.30
+Elapsed: 00:00:00.38
 old   1: GRANT CREATE TRIGGER TO &SCHEMA_NAME
 new   1: GRANT CREATE TRIGGER TO MMF_120_0
 
 Grant succeeded.
 
-Elapsed: 00:00:00.31
+Elapsed: 00:00:00.60
 old   1: GRANT CREATE SYNONYM TO &SCHEMA_NAME
 new   1: GRANT CREATE SYNONYM TO MMF_120_0
 
 Grant succeeded.
 
-Elapsed: 00:00:00.33
+Elapsed: 00:00:00.59
 old   1: GRANT CREATE SESSION TO &SCHEMA_NAME
 new   1: GRANT CREATE SESSION TO MMF_120_0
 
 Grant succeeded.
 
-Elapsed: 00:00:00.31
+Elapsed: 00:00:00.69
 old   1: GRANT CREATE ANY DIRECTORY TO &SCHEMA_NAME
 new   1: GRANT CREATE ANY DIRECTORY TO MMF_120_0
 
 Grant succeeded.
 
-Elapsed: 00:00:00.32
+Elapsed: 00:00:00.64
 old   1: GRANT CREATE TABLE TO &&SCHEMA_NAME
 new   1: GRANT CREATE TABLE TO MMF_120_0
 
 Grant succeeded.
 
-Elapsed: 00:00:00.28
+Elapsed: 00:00:00.54
 *******************************
 Script start: grants.sql
 *******************************
