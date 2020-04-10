@@ -1,0 +1,65 @@
+Script info:
+
+SYS_CONTEXT('USERENV','MODULE')                                                 
+--------------------------------------------------------------------------------
+01@ main.sql                                                                    
+
+Elapsed: 00:00:00.00
+
+Username to create: MMF_120_0
+Path of datafile location: D:\Oracle\Base\oradata\ORCL\DATAFILE\
+
+Calling create_tablespaces.sql for data tablespace
+
+Script info:
+
+SYS_CONTEXT('USERENV','MODULE')                                                 
+--------------------------------------------------------------------------------
+02@ create_tablespaces.sql                                                      
+
+Elapsed: 00:00:00.00
+
+old   3:     l_tbs_name VARCHAR2(500) := '&&USER_NAME'||'_'||'&&TBS_TYPE';
+new   3:     l_tbs_name VARCHAR2(500) := 'MMF_120_0'||'_'||'DATA';
+old   4:     l_file_name VARCHAR2(500) := '&&TBS_LOCATION'||l_tbs_name||'.dbf';
+new   4:     l_file_name VARCHAR2(500) := 'D:\Oracle\Base\oradata\ORCL\DATAFILE\'||l_tbs_name||'.dbf';
+old   6: ---    l_tbs_name := &&USER_NAME||'_'||&&TBS_TYPE;
+new   6: ---    l_tbs_name := MMF_120_0||'_'||DATA;
+old   7: --    l_file_name := &&TBS_LOCATION||l_tbs_name||'.dbf';
+new   7: --    l_file_name := D:\Oracle\Base\oradata\ORCL\DATAFILE\||l_tbs_name||'.dbf';
+Creating new tablespace: MMF_120_0_DATA                                         
+Script to create tablespace: CREATE SMALLFILE TABLESPACE MMF_120_0_DATA DATAFILE
+'D:\Oracle\Base\oradata\ORCL\DATAFILE\MMF_120_0_DATA.dbf' SIZE 10M AUTOEXTEND ON
+NEXT 10M MAXSIZE 10G EXTENT MANAGEMENT LOCAL SEGMENT SPACE MANAGEMENT AUTO      
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.82
+
+Calling create_tablespaces.sql for index tablespace
+
+Script info:
+
+SYS_CONTEXT('USERENV','MODULE')                                                 
+--------------------------------------------------------------------------------
+02@ create_tablespaces.sql                                                      
+
+Elapsed: 00:00:00.00
+
+old   3:     l_tbs_name VARCHAR2(500) := '&&USER_NAME'||'_'||'&&TBS_TYPE';
+new   3:     l_tbs_name VARCHAR2(500) := 'MMF_120_0'||'_'||'IDX';
+old   4:     l_file_name VARCHAR2(500) := '&&TBS_LOCATION'||l_tbs_name||'.dbf';
+new   4:     l_file_name VARCHAR2(500) := 'D:\Oracle\Base\oradata\ORCL\DATAFILE\'||l_tbs_name||'.dbf';
+old   6: ---    l_tbs_name := &&USER_NAME||'_'||&&TBS_TYPE;
+new   6: ---    l_tbs_name := MMF_120_0||'_'||IDX;
+old   7: --    l_file_name := &&TBS_LOCATION||l_tbs_name||'.dbf';
+new   7: --    l_file_name := D:\Oracle\Base\oradata\ORCL\DATAFILE\||l_tbs_name||'.dbf';
+Creating new tablespace: MMF_120_0_IDX                                          
+Script to create tablespace: CREATE SMALLFILE TABLESPACE MMF_120_0_IDX DATAFILE 
+'D:\Oracle\Base\oradata\ORCL\DATAFILE\MMF_120_0_IDX.dbf' SIZE 10M AUTOEXTEND ON 
+NEXT 10M MAXSIZE 10G EXTENT MANAGEMENT LOCAL SEGMENT SPACE MANAGEMENT AUTO      
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.87
+
