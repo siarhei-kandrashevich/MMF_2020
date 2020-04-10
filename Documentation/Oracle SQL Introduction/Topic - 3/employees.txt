@@ -1,0 +1,102 @@
+FIRST_NAME	LAST_NAME	PHONE_NUMBER	HIRE_DATE	SALARY	JOB_TITLE	DEPARTMENT_NAME	STREET_ADDRESS	POSTAL_CODE	CITY	STATE_PROVINCE	COUNTRY_NAME	REGION_NAME
+Hermann	Baer	 482.949.9250	18-JUL-10 00:00:00	7800	President	BI Solutins	Kuprevicha 1/1	220147	Minsk		Belarus	Europe
+Hermann	Baer	 654.962.6836	25-JUL-10 00:00:00	3500	DWH Developer	Sales	Magdalen Centre, The Oxford Science Park	OX9 9ZB	Oxford	Oxford	United Kingdom	Europe
+Hermann	Hartstein	 228.764.3725	12-MAR-11 00:00:00	3200	Marketing Manager	Operations	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Hermann	Hartstein	 950.061.0069	20-JAN-11 00:00:00	7200	BI Developer	IT Helpdesk	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Hermann	Hartstein	 962.907.1199	18-AUG-11 00:00:00	2200	BI Developer	Construction	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Hermann	Higgins	 366.729.9394	13-JUN-10 00:00:00	9500	Programmer	Human Resources	8204 Arthur St		London		United Kingdom	Europe
+Hermann	Higgins	 374.924.5998	09-APR-10 00:00:00	7800	Administration Vice President	Payroll	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Hermann	Mavris	 210.766.8944	04-NOV-10 00:00:00	4100	DWH Developer	Purchasing	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Hermann	Mavris	 333.693.4065	30-JUL-11 00:00:00	1700	Human Resources Representative	Executive	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Hermann	Mavris	 535.578.3194	09-JAN-10 00:00:00	7100	BI Developer	Administration	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Hermann	Mavris	 680.663.1690	16-FEB-10 00:00:00	6600	Sales Representative	Manufacturing	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Hermann	Whalen	 333.118.7925	07-SEP-09 00:00:00	6500	Marketing Representative	Administration	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Hermann	Whalen	 333.817.3018	10-DEC-10 00:00:00	2000	Purchasing Manager	IT	2014 Jabberwocky Rd	26192	Southlake	Texas	United States of America	Americas
+Hermann	Whalen	 480.457.0858	13-JUL-11 00:00:00	2500	Marketing Representative	Contracting	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Baer	 394.221.4355	09-MAY-10 00:00:00	1000	Programmer	IT Helpdesk	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Baer	 433.563.0003	28-AUG-11 00:00:00	6900	Human Resources Representative	IT Helpdesk	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Baer	 604.773.1552	11-JAN-10 00:00:00	5300	Purchasing Manager	Operations	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Baer	 727.567.6683	20-MAY-10 00:00:00	2300	DWH Developer	Corporate Tax	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Baer	 824.911.1143	11-APR-11 00:00:00	4700	Human Resources Representative	Government Sales	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Baer	 891.900.2850	31-MAY-11 00:00:00	8600	Finance Manager	Operations	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Fay	 743.549.8761	17-MAR-10 00:00:00	5300	DWH Developer	BI Consulting	Kuprevicha 10/1	220147	Minsk		Belarus	Europe
+Jennifer	Fay	 808.572.3620	25-MAY-11 00:00:00	7000	Sales Manager	Corporate Tax	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Fay	 829.655.7881	23-JUN-11 00:00:00	5900	Shipping Clerk	Executive	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Fay	 959.438.1441	03-OCT-09 00:00:00	6100	President	BI Consulting	Kuprevicha 10/1	220147	Minsk		Belarus	Europe
+Jennifer	Hartstein	 286.606.1422	29-MAR-11 00:00:00	9700	Stock Clerk	IT	2014 Jabberwocky Rd	26192	Southlake	Texas	United States of America	Americas
+Jennifer	Hartstein	 291.514.2586	11-FEB-11 00:00:00	8400	BI Developer	Shareholder Services	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Hartstein	 473.073.8689	30-AUG-10 00:00:00	1200	Accountant	Government Sales	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Hartstein	 664.097.2644	11-DEC-09 00:00:00	8900	Purchasing Manager	Benefits	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Higgins	 378.083.8285	30-MAR-10 00:00:00	4100	Administration Assistant	Finance	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Higgins	 904.728.5228	15-FEB-11 00:00:00	3300	Sales Manager	Operations	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Mavris	 485.677.3190	30-APR-11 00:00:00	2800	Administration Vice President	Control And Credit	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Whalen	 191.115.2490	17-NOV-09 00:00:00	2500	Purchasing Clerk	Finance	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Whalen	 207.188.0263	02-MAY-11 00:00:00	2500	President	Operations	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Jennifer	Whalen	 950.730.1156	16-MAR-10 00:00:00	6500	DWH Developer	Manufacturing	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Michael	Baer	 168.693.7755	25-FEB-10 00:00:00	5400	Shipping Clerk	Executive	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Michael	Fay	 271.504.4519	09-OCT-09 00:00:00	9900	Accountant	Government Sales	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Michael	Fay	 344.998.5971	07-APR-11 00:00:00	7700	BI Developer	Contracting	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Michael	Fay	 497.692.5510	27-FEB-11 00:00:00	5000	Marketing Representative	Retail Sales	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Michael	Fay	 893.376.3985	29-JUN-11 00:00:00	1400	Public Accountant	BI Solutins	Kuprevicha 1/1	220147	Minsk		Belarus	Europe
+Michael	Hartstein	 807.388.9126	30-SEP-10 00:00:00	2300	Administration Assistant	Benefits	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Michael	Higgins	 117.100.0965	04-SEP-11 00:00:00	3800	Finance Manager	IT Helpdesk	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Michael	Higgins	 349.087.1795	20-AUG-11 00:00:00	9800	President	Recruiting	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Michael	Higgins	 356.184.6454	09-JUN-11 00:00:00	1700	Sales Representative	NOC	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Michael	Higgins	 471.973.4777	25-AUG-11 00:00:00	3800	Accountant	Shareholder Services	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Michael	Higgins	 495.142.4489	22-OCT-09 00:00:00	3200	Purchasing Manager	Benefits	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Michael	Higgins	 668.838.5490	24-AUG-09 00:00:00	9300	Human Resources Representative	Shipping	2011 Interiors Blvd	99236	South San Francisco	California	United States of America	Americas
+Michael	Mavris	 241.269.1591	03-NOV-09 00:00:00	9600	Sales Representative	Control And Credit	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Michael	Mavris	 732.309.8735	14-FEB-11 00:00:00	8500	Administration Vice President	Shipping	2011 Interiors Blvd	99236	South San Francisco	California	United States of America	Americas
+Michael	Whalen	 128.792.7119	04-NOV-10 00:00:00	2100	Stock Clerk	Marketing	147 Spadina Ave	M5V 2L7	Toronto	Ontario	Canada	Americas
+Michael	Whalen	 278.467.9277	12-APR-11 00:00:00	4900	BI Developer	IT Support	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Michael	Whalen	 353.691.2174	11-JUN-10 00:00:00	6500	BI Developer	Executive	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Michael	Whalen	 601.557.8056	12-MAY-11 00:00:00	6800	Administration Vice President	Shareholder Services	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Pat	Baer	 599.935.2090	07-NOV-09 00:00:00	6700	Purchasing Manager	Administration	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Pat	Baer	 612.378.2119	30-SEP-09 00:00:00	1200	Finance Manager	Retail Sales	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Pat	Baer	 623.292.4440	11-MAR-11 00:00:00	7800	Sales Representative	IT Helpdesk	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Pat	Baer	 765.193.1462	22-JUL-10 00:00:00	5300	Shipping Clerk	Recruiting	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Pat	Fay	 608.262.9077	13-JAN-10 00:00:00	8800	Marketing Representative	Retail Sales	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Pat	Fay	 972.572.3357	30-JAN-10 00:00:00	8600	Sales Representative	Marketing	147 Spadina Ave	M5V 2L7	Toronto	Ontario	Canada	Americas
+Pat	Hartstein	 370.936.0921	15-OCT-09 00:00:00	1900	Stock Clerk	Payroll	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Pat	Hartstein	 491.687.1088	01-FEB-11 00:00:00	5200	Stock Clerk	Retail Sales	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Pat	Hartstein	 670.682.0796	04-OCT-09 00:00:00	5000	Public Accountant	IT	2014 Jabberwocky Rd	26192	Southlake	Texas	United States of America	Americas
+Pat	Hartstein	 711.485.8922	06-APR-11 00:00:00	1400	Purchasing Clerk	Manufacturing	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Pat	Hartstein	 739.232.7463	15-MAY-11 00:00:00	6200	Shipping Clerk	Shareholder Services	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Pat	Higgins	 845.694.9896	19-AUG-09 00:00:00	3000	Stock Clerk	Finance	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Pat	Mavris	 515.226.0403	17-SEP-11 00:00:00	2000	Marketing Representative	BI Testing	Pushkina 12	222123	Brest		Belarus	Europe
+Pat	Mavris	 809.025.6819	27-JAN-10 00:00:00	9900	DWH Developer	Manufacturing	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Pat	Whalen	 360.261.9926	20-AUG-10 00:00:00	1000	Programmer	Government Sales	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Pat	Whalen	 708.450.9050	02-AUG-10 00:00:00	1000	Purchasing Clerk	Human Resources	8204 Arthur St		London		United Kingdom	Europe
+Shelley	Baer	 340.709.3929	18-APR-10 00:00:00	4500	Sales Representative	Corporate Tax	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Shelley	Baer	 936.552.9670	19-JUL-09 00:00:00	7500	Programmer	Purchasing	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Shelley	Fay	 141.551.1048	29-JUL-11 00:00:00	3100	DWH Developer	IT Helpdesk	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Shelley	Hartstein	 222.772.2608	27-SEP-09 00:00:00	4600	Administration Vice President	Manufacturing	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Shelley	Hartstein	 303.319.3228	20-JAN-10 00:00:00	9400	Accounting Manager	IT	2014 Jabberwocky Rd	26192	Southlake	Texas	United States of America	Americas
+Shelley	Hartstein	 516.422.5579	26-NOV-10 00:00:00	7200	Public Relations Representative	Sales	Magdalen Centre, The Oxford Science Park	OX9 9ZB	Oxford	Oxford	United Kingdom	Europe
+Shelley	Hartstein	 740.750.9563	18-JUL-10 00:00:00	2700	Shipping Clerk	Corporate Tax	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Shelley	Hartstein	 947.529.9878	21-MAY-10 00:00:00	8000	Accountant	Human Resources	8204 Arthur St		London		United Kingdom	Europe
+Shelley	Higgins	 184.315.3875	04-JAN-11 00:00:00	2800	Marketing Manager	IT Support	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Shelley	Higgins	 754.331.4318	09-SEP-11 00:00:00	4900	Sales Manager	NOC	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Shelley	Higgins	 834.502.9761	17-OCT-09 00:00:00	8900	Purchasing Clerk	Corporate Tax	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Shelley	Mavris	 100.280.7544	04-MAY-10 00:00:00	5100	Purchasing Manager	Administration	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Shelley	Mavris	 384.683.3574	24-AUG-11 00:00:00	1000	Shipping Clerk	Retail Sales	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Shelley	Whalen	 573.070.9031	11-NOV-10 00:00:00	7900	Administration Assistant	Public Relations	Schwanthalerstr. 7031	80925	Munich	Bavaria	Germany	Europe
+Shelley	Whalen	 714.542.3101	11-SEP-09 00:00:00	3300	Administration Vice President	Human Resources	8204 Arthur St		London		United Kingdom	Europe
+Susan	Baer	 264.700.7626	18-NOV-09 00:00:00	1400	Sales Representative	Government Sales	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Susan	Baer	 374.488.4094	24-JUN-11 00:00:00	5200	President	Operations	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Susan	Baer	 602.166.8242	25-OCT-09 00:00:00	3500	President	BI Testing	Pushkina 12	222123	Brest		Belarus	Europe
+Susan	Baer	 921.651.8352	05-OCT-09 00:00:00	6400	Marketing Manager	Shipping	2011 Interiors Blvd	99236	South San Francisco	California	United States of America	Americas
+Susan	Fay	 320.780.0209	24-FEB-10 00:00:00	6200	Public Accountant	Marketing	147 Spadina Ave	M5V 2L7	Toronto	Ontario	Canada	Americas
+Susan	Fay	 617.930.7071	13-OCT-10 00:00:00	2400	Marketing Representative	Administration	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Susan	Hartstein	 197.562.0609	05-NOV-09 00:00:00	4000	Accounting Manager	Accounting	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Susan	Hartstein	 346.623.0182	26-DEC-10 00:00:00	5000	Purchasing Manager	Human Resources	8204 Arthur St		London		United Kingdom	Europe
+Susan	Hartstein	 582.174.6871	05-MAR-10 00:00:00	6200	Public Relations Representative	Shareholder Services	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Susan	Higgins	 402.661.4340	15-MAY-11 00:00:00	1200	Shipping Clerk	Sales	Magdalen Centre, The Oxford Science Park	OX9 9ZB	Oxford	Oxford	United Kingdom	Europe
+Susan	Higgins	 418.529.5978	18-JAN-11 00:00:00	7300	Accountant	Executive	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Susan	Higgins	 440.254.9698	06-MAR-10 00:00:00	9000	Accountant	BI Testing	Pushkina 12	222123	Brest		Belarus	Europe
+Susan	Higgins	 466.809.5288	02-FEB-11 00:00:00	9300	Purchasing Clerk	Corporate Tax	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Susan	Higgins	 779.538.7656	25-DEC-10 00:00:00	4400	Finance Manager	Shipping	2011 Interiors Blvd	99236	South San Francisco	California	United States of America	Americas
+Susan	Mavris	 152.445.4441	15-APR-11 00:00:00	1900	Stock Clerk	Shipping	2011 Interiors Blvd	99236	South San Francisco	California	United States of America	Americas
+Susan	Mavris	 875.676.3550	09-JAN-10 00:00:00	7900	Sales Representative	Purchasing	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Susan	Whalen	 495.679.4752	24-MAR-10 00:00:00	4400	Programmer	Construction	2004 Charade Rd	98199	Seattle	Washington	United States of America	Americas
+Susan	Whalen	 852.408.6938	06-DEC-09 00:00:00	9200	Purchasing Clerk	BI Solutins	Kuprevicha 1/1	220147	Minsk		Belarus	Europe
