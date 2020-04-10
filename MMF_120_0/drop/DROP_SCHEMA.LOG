@@ -1,0 +1,93 @@
+Script info:
+
+SYS_CONTEXT('USERENV','MODULE')                                                 
+--------------------------------------------------------------------------------
+01@ main.sql                                                                    
+
+Elapsed: 00:00:00.00
+
+Username to drop: MMF_120_0
+
+Calling drop_tablespace.sql for data tablespace
+
+
+Script start: drop_tablespace.sql
+
+Script info:
+
+SYS_CONTEXT('USERENV','MODULE')                                                 
+--------------------------------------------------------------------------------
+02@ drop_tablespace.sql                                                         
+
+Elapsed: 00:00:00.00
+
+old   4:     l_tbs_name     VARCHAR2(500) := '&&1._&&2';
+new   4:     l_tbs_name     VARCHAR2(500) := 'MMF_120_0_DATA';
+drop_tablespaces.sql- Iput parameter Tablespace Name = MMF_120_0_DATA           
+drop_tablespaces.sql- Checking if MMF_120_0_DATA tablespace exists              
+Dropping tablespace: MMF_120_0_DATA                                             
+Script to drop tablespace: DROP TABLESPACE MMF_120_0_DATA INCLUDING CONTENTS AND
+DATAFILES CASCADE CONSTRAINTS                                                   
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:04.32
+
+Script end: drop_tablespace.sql
+
+
+Calling drop_tablespace.sql for index tablespace
+
+
+Script start: drop_tablespace.sql
+
+Script info:
+
+SYS_CONTEXT('USERENV','MODULE')                                                 
+--------------------------------------------------------------------------------
+02@ drop_tablespace.sql                                                         
+
+Elapsed: 00:00:00.00
+
+old   4:     l_tbs_name     VARCHAR2(500) := '&&1._&&2';
+new   4:     l_tbs_name     VARCHAR2(500) := 'MMF_120_0_IDX';
+drop_tablespaces.sql- Iput parameter Tablespace Name = MMF_120_0_IDX            
+drop_tablespaces.sql- Checking if MMF_120_0_IDX tablespace exists               
+Dropping tablespace: MMF_120_0_IDX                                              
+Script to drop tablespace: DROP TABLESPACE MMF_120_0_IDX INCLUDING CONTENTS AND 
+DATAFILES CASCADE CONSTRAINTS                                                   
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:03.44
+
+Script end: drop_tablespace.sql
+
+
+Calling drop_schema.sql
+
+
+Script start: drop_schema.sql
+
+Script info:
+
+SYS_CONTEXT('USERENV','MODULE')                                                 
+--------------------------------------------------------------------------------
+02@ drop_schema.sql                                                             
+
+Elapsed: 00:00:00.00
+
+old   4:     l_schema_name     VARCHAR2(500) := '&&1';
+new   4:     l_schema_name     VARCHAR2(500) := 'MMF_120_0';
+drop_schema.sql- Iput parameter Schema Name = MMF_120_0                         
+drop_schema.sql- Checking if MMF_120_0 schema exists                            
+Dropping schema: MMF_120_0                                                      
+Script to drop schema: DROP USER MMF_120_0                                      
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:01.26
+
+Script end: drop_schema.sql
+
+

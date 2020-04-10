@@ -31,6 +31,16 @@ PROMPT
 @create_tablespaces.sql &&USER_NAME &&TBS_LOCATION IDX 
 PROMPT
 
+PROMPT Calling create_schema.sql
+PROMPT
+@create_schema.sql &&USER_NAME oracle &&USER_NAME._DATA &&USER_NAME._IDX
+PROMPT
+
+PROMPT Calling grants.sql
+PROMPT
+@grants.sql &&USER_NAME
+PROMPT
+
 SET SERVEROUTPUT OFF
 
 UNDEFINE USER_NAME
